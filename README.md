@@ -1,4 +1,4 @@
-# What is IREC?
+# What is IRCAP?
 IRCAP allow you to intercept all IRP requests to the target driver without any side effects. It can be used to collect interesting corpus for fuzzing and can manipulate I/O communication between an application and kernel. 
 
 ## Motivation
